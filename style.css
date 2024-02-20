@@ -8,6 +8,7 @@
 
 body{
     background-color: #F9F5E3;
+    overflow-x:hidden;
 }
 header, main, footer {
     position: relative;
