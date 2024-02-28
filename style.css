@@ -87,6 +87,12 @@ footer {
     font-weight: 500;
     font-size: 20px;
 }
+#Where{
+    margin-inline: auto;
+    width:fit-content;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
 @media screen and (max-width: 850px) {
     #text{
         width: 80%;
